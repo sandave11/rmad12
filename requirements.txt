@@ -1,5 +1,4 @@
 requests
-threading
 sys
 os
 time
